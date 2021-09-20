@@ -1,0 +1,39 @@
+{
+  "todos-items": [
+    {
+      "id": 1,
+      "title": "Download Spotify in Russia",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Try to listen to Joe Rogan Experience",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "title": "Find out they fucked around",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "title": "No podcasts for Russia, only Morgenshit",
+      "completed": false
+    },
+    {
+      "id": 5,
+      "title": "Weep like a bitch",
+      "completed": true
+    },
+    {
+      "id": 6,
+      "title": "Use VPN",
+      "completed": false
+    },
+    {
+      "id": 7,
+      "title": "Enjoy JRE",
+      "completed": false
+    }
+  ]
+}
