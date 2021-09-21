@@ -3,12 +3,12 @@
     {
       "id": 1,
       "title": "Download Spotify in Russia",
-      "completed": false
+      "completed": true
     },
     {
       "id": 2,
       "title": "Try to listen to Joe Rogan Experience",
-      "completed": true
+      "completed": false
     },
     {
       "id": 3,
@@ -17,13 +17,13 @@
     },
     {
       "id": 4,
-      "title": "No podcasts for Russia, only Morgenshit",
+      "title": "No podcasts for Russia, only Morgenshtern",
       "completed": false
     },
     {
       "id": 5,
       "title": "Weep like a bitch",
-      "completed": true
+      "completed": false
     },
     {
       "id": 6,

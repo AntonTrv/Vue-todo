@@ -6,27 +6,6 @@
     </div>
 </template>
 
-<script>
-    export default {
-        name: 'App',
-        data() {
-            return {
-                 todos: [],
-            }
-        },
-        components: {
-        },
-
-        methods: {
-            addTodo(newTodo) {
-                this.todos.push(newTodo)
-            },
-            removeTodo(id) {
-                this.todos = this.todos.filter(t => t.id !== id)
-            },
-        }
-    }
-</script>
 
 <style>
     #app {
